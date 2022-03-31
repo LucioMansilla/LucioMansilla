@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciomansilla&label=Profile%20views&color=0e75b6&style=flat" alt="luciomansilla" /> </p>
 
 - 🌱 I’m currently learning **Statistics**
--    I'm currently working as a **"BackEnd developer"**.
 
 - 📫 How to reach me **luciomansilla@outlook.com.ar**
 
