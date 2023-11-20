@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciomansilla&label=Profile%20views&color=0e75b6&style=flat" alt="luciomansilla" /> </p>
 
-- 📫 How to reach me **luciomansilla@outlook.com.ar**
+- 📫 How to reach me **luciomansilla@outlook.com.ar** or **lmansilla@dc.exa.unrc.edu.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
